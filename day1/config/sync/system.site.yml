@@ -1,0 +1,14 @@
+uuid: 4743a207-1940-4cfd-a597-1418657ec80d
+name: 'Drupal demo'
+mail: ashok.gharpankar@saint-gobain.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
